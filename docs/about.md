@@ -1,4 +1,4 @@
-# <span style="color: pruple; ">REAL Tutorについて</span>
+# <span style="color:#7b2cbf;">REAL Tutorについて</span>
 
 REAL Tutorは、既存の塾や家庭教師にはい**安心感**と、**外資コンサルティング会社での勤務経験を活かした独自の指導内容**を特徴とする、**新しい学習支援サービス**です。
 
