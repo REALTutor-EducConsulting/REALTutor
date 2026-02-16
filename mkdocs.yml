@@ -1,0 +1,10 @@
+site_name: REAL Tutor
+nav:
+  - Home: index.md
+  - About: about.md
+  - Pricing: pricing.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  language: ja
