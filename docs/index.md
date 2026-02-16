@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# 家庭教師サービス
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+対象：中高生・大学受験（数学／英語 など）
+- 目標に合わせて学習計画を設計
+- 進捗を可視化し、改善サイクルを回します
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+まずは無料相談から。
