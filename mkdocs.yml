@@ -1,10 +1,10 @@
 site_name: REAL Tutor
 site_url: https://REALTutor-EducConsulting.github.io/REALTutor/
 nav:
-  - Home: index.md
-  - About: about.md
-  - Pricing: pricing.md
-  - Contact: contact.md
+  - REAL Tutorについて: about.md
+  - 料金体系: pricing.md
+  - よくある質問: faq.md
+  - ご相談・お申し込み: contact.md
 
 theme:
   name: material
@@ -13,3 +13,8 @@ theme:
     - scheme: default
       primary: deep purple
       accent: purple
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+
